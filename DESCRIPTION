@@ -1,0 +1,10 @@
+Package: ukbb.analyses
+Title: Helper Package For UKBB Analyses
+Version: 0.0.0.9000
+Authors@R: 
+    person("Nicholas", "Sunderland", , "nicholas.sunderland@bristol.ac.uk", role = c("aut", "cre"))
+Description: Helps running UKBB analyses on the RAP.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
